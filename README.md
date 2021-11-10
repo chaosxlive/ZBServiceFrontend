@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Plugins
+
+### Ant-Design-Vue
+[Document](https://2x.antdv.com/)
+[Components](https://github.com/vueComponent/ant-design-vue/blob/next/components/components.ts)
