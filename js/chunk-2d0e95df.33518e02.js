@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e95df"],{"8cdb":function(n,c,e){"use strict";e.r(c);var t=e("7a23"),d={class:"page-not-found"},o=Object(t["j"])("h1",null,"你所指定的頁面不存在。",-1),u=[o];function a(n,c){return Object(t["B"])(),Object(t["i"])("div",d,u)}var r=e("6b0d"),s=e.n(r);const b={},i=s()(b,[["render",a]]);c["default"]=i}}]);
+//# sourceMappingURL=chunk-2d0e95df.33518e02.js.map
